@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Solution URL: [Solution URL](https://github.com/Faith-Rose1/Article-preview-card)
+- Live Site URL: [Live Site URL](https://faith-rose1.github.io/Article-preview-card/)
 
 ## My process
 
